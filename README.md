@@ -2,4 +2,4 @@
 
 
 ### PROBLEM STATEMENT:
-This repository contains the code for a simple auto-correct system built.
+This repository holds the source code for a simple auto-correct system created using NLP principles and methods.
