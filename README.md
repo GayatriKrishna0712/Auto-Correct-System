@@ -7,7 +7,7 @@ This repository holds the source code for a simple auto-correct system created u
 
 
 ### INTRODUCTION:
-Almost everyone in this digital age carries a smartphone, it can be an Android or iOS device. Autocorrect uses natural language processing as its foundation (NLP). It is designed to fix spelling and other text-entry errors, as the name suggests. On our smartphones, we commonly utilise autocorrect models when messaging on sites like Facebook Messenger, WhatsApp, and others. This would be merely a Natural Language Processing application on a somewhat smaller dataset—Shakespeare.txt—and is undoubtedly not an identical replica of the smartphone we currently use.
+Almost everyone in this digital age carries a smartphone, it can be an Android or iOS device. Autocorrect uses natural language processing as its foundation (NLP). It is designed to fix spelling and other text-entry errors. On our smartphones, we commonly utilise autocorrect models when messaging on sites like Facebook Messenger, WhatsApp, and others. This project would be merely a Natural Language Processing application on a smaller dataset—Shakespeare.txt—and is undoubtedly not an identical replica of the smartphone we currently use.
 
 
 ### STEPS FOR BUILIDING AN AUTO-CORRECT MODEL:
