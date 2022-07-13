@@ -50,3 +50,9 @@ The real list of words is categorised by the term that was formed as the candida
 
 ### CONCLUSIONS:
 NLP is essential for giving computers the ability to comprehend and process natural human language. This is how the autocorrect mechanism has been put into practice above.
+
+
+
+### REFERENCES:
+1. https://thecleverprogrammer.com/2020/10/04/autocorrect-with-python/
+2. https://www.analyticsvidhya.com/blog/2021/11/autocorrect-feature-using-nlp-in-python/
